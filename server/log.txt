@@ -1,0 +1,7641 @@
+
+
+[2020/02/02 @ 13:39:55] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:55] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/02 @ 13:39:55] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=185fa433d406c85e1985458d1aaefa99be3fa8ff6d9c8e5468446e68110c9e4b&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:56] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:56] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:56] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:57] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:57] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:57] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:39:58] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:58] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:58] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:58] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:39:58] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:39:59] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:40:05] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:40:06] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:09] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:40:09] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 13:49:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:49:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:49:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:59:16] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:59:16] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 13:59:17] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:08:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:08:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:08:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:12:13] : /server/load.php?type=epg&action=get_week&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-02&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-02&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-02&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-02&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:21] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-01&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:21] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-01&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:12:21] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-01&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 14:18:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:18:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:18:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:28:19] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:28:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:28:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:38:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:38:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:38:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:47:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:47:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:47:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:57:22] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:57:23] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 14:57:24] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:07:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:07:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:07:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:16:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:16:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:16:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:26:26] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:26:26] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:26:27] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:36:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:36:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:36:08] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:45:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:45:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:45:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:55:29] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:55:29] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 15:55:30] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:05:10] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:05:11] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:05:11] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:07:50] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 16:07:50] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:09:41] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 16:09:41] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:14:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:14:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:14:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:24:32] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:24:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:24:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:34:13] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:34:14] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:34:14] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:43:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:43:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:43:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:53:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:53:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 16:53:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:03:17] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:03:17] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:03:18] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:12:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:12:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:12:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:22:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:22:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:22:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:32:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:32:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:32:21] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:42:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:42:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:42:02] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:51:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:51:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 17:51:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:01:23] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:01:24] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:01:24] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:11:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:11:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:11:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:20:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:20:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:20:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:25:35] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:35] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:36] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:36] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:36] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:36] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:37] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:38] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:38] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:38] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:39] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:39] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:45] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:45] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:46] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:46] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:46] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:46] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:49] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:49] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:25:49] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:49] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:50] : get real tv link fail!
+
+
+
+
+[2020/02/02 @ 18:25:50] : get short epg fail!
+
+
+
+
+[2020/02/02 @ 18:26:09] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:09] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/02 @ 18:26:09] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=3e5b50537a5bb93d9c4826b4bcb825a5645f710f78bfc296455d659b3089eb9f&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:10] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:10] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:10] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:11] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:12] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:26:12] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:26:19] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:20] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:26:21] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:26:25] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:11] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:11] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:27:45] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F388_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:45] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=388&tmp_type=1&streamer_id=0&link_id=0&ch_id=388&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:27:46] : /server/load.php?action=get_short_epg&ch_id=388&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:46] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:46] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:27:47] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F1335_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:27:47] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=1335&tmp_type=1&streamer_id=0&link_id=0&ch_id=1335&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:27:47] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=1335&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:34:29] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F8784_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:34:29] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=8784&tmp_type=1&streamer_id=0&link_id=0&ch_id=8784&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:37:43] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F1335_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:37:43] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=1335&tmp_type=1&streamer_id=0&link_id=0&ch_id=1335&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:37:44] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=1335&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 18:40:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:40:08] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:40:08] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:54:06] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:54:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 18:54:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:08:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:08:06] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:08:06] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:22:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:22:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:22:06] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:36:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:36:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:36:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:50:03] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:50:03] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 19:50:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:04:02] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:04:02] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:04:03] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:18:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:18:02] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:18:02] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:32:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:32:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:32:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:45:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:46:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:46:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:59:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:59:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 20:59:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:13:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:13:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:13:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:27:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:27:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:27:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:41:56] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:41:56] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:41:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:55:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:55:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 21:55:56] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:03:28] : /server/load.php?type=epg&action=get_week&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-02&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-02&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-02&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-02&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-02&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:09:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:09:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:09:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:23:53] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:23:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:23:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:37:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:37:53] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:37:53] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:44:33] : /server/load.php?action=get_short_epg&ch_id=1335&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/02 @ 22:51:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:51:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 22:51:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:05:50] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:05:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:05:52] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:19:50] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:19:50] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:19:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:33:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:33:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:33:50] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:47:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:47:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/02 @ 23:47:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:01:47] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:01:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:01:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:15:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:15:47] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:15:47] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:27:03] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 00:29:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:29:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:29:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:43:44] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:43:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:43:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:57:44] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:57:44] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 00:57:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=388&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:28] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:29] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:03:30] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:12] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:12] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:12] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:12] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:12] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:13] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=6&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:22] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:24] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:04:24] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:04:28] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:34] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:34] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:34] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:34] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:42] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:42] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:42] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:42] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=388&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:50] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F299_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:50] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=299&tmp_type=1&streamer_id=0&link_id=0&ch_id=299&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:06:55] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:55] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:56] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:56] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:56] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:56] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:57] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:57] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=25007&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:57] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:06:57] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:00] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11365&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:00] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11365&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:00] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11365&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:00] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11365&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:02] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11366&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:02] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11366&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:03] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=41214&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:20] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:20] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:20] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:20] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:20] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:23] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:34] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=299&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:40] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:40] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:07:41] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:41] : /server/load.php?action=get_short_epg&ch_id=309&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:50] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:50] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:51] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=6&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:59] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:59] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:59] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:07:59] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=291&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=291&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=297&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=291&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=297&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=291&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=297&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:01] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=297&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:10] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F299_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:08:10] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=299&tmp_type=1&streamer_id=0&link_id=0&ch_id=299&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:08:24] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=299&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:11:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:11:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:11:44] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=388&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:48] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:49] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:50] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:50] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:50] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:52] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=6&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:53] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F308_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:53] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=308&tmp_type=1&streamer_id=0&link_id=0&ch_id=308&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:12:58] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:58] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:58] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:58] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:12:58] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:06] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:07] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:07] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:07] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:07] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:08] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F310_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:13:08] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=310&tmp_type=1&streamer_id=0&link_id=0&ch_id=310&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:13:27] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=310&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:15] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:16] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:17] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=6&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:18] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:17:19] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:19] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:19] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:19] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:26] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:26] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:27] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1344&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:17:41] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 01:25:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:25:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:25:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:39:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:39:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:39:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:53:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:53:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 01:53:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:07:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:07:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:07:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:21:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:21:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:21:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:35:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:35:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:35:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:49:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:49:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 02:49:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:03:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:03:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:03:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:17:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:17:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:17:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:31:34] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:31:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:31:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:45:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:45:34] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:45:34] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:59:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:59:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 03:59:34] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 04:13:32] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 04:13:32] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 04:13:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:27:03] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:03] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 07:27:03] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=f55303168edd7c368ba9602be7eb948c7b35a22a713a0d13fad9807394352f5a&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:04] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:04] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:04] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:05] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:27:06] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:27:06] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:27:12] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:14] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:14] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:14] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:15] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:27:22] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:16] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:17] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:30:20] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:21] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:30:25] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:25] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:30:29] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:29] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:30:33] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:33] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:30:44] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:30:44] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:31:03] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:31:03] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:31:18] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:31:18] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:31:29] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 07:31:29] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:40:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:40:20] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:40:21] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:53:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:53:38] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 07:53:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:06:56] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:06:56] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:06:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:20:14] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:20:15] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:20:15] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:33:32] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:33:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:33:33] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:46:50] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:46:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 08:46:51] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:00:08] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:00:09] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:00:09] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:13:26] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:13:27] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:13:27] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:26:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:26:45] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:26:46] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:40:03] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:40:03] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:40:04] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:53:21] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:53:21] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 09:53:22] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:06:39] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:06:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:06:40] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:19:57] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:19:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 10:19:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=1&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:43:06] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:06] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 13:43:06] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=de11a8d1323c338ee2bab826d51b096b7e7d498578574c7ba58b87b534810cb1&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:07] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:07] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:08] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:08] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:09] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:43:10] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:43:16] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:18] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:19] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:19] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:19] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:43:19] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:43:24] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:45] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:46] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=307&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=4103&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=11969&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=2503&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=310&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=308&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:46:47] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=309&date=2020-02-03&p=6&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=299&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:37] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=1335&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=8784&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:38] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=388&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=3&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=1&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=4&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=19629&date=2020-02-03&p=2&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:40] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=25007&date=2020-02-03&p=0&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:47:41] : /server/load.php?action=get_simple_data_table&type=epg&ch_id=45520&date=2020-02-03&p=5&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 13:54:58] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:54:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 13:54:59] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:06:53] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:06:53] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:06:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:18:47] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:18:47] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:18:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:30:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:30:41] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:30:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:42:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:42:35] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:42:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:54:29] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:54:29] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 14:54:30] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:06:23] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:06:24] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:06:24] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:18:17] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:18:18] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:18:18] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:30:11] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:30:12] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:30:12] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:42:05] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:42:06] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:42:07] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:54:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:54:00] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 15:54:01] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:05:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:05:54] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:05:55] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:17:48] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:17:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:17:49] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:29:42] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:29:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:29:43] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:41:36] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:41:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 16:41:37] : /server/load.php?action=get_events&event_active_id=0&init=0&type=watchdog&cur_play_type=14&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 20:42:51] : Fail handshake
+
+
+
+
+[2020/02/03 @ 20:42:52] : Fail handshake
+
+
+
+
+[2020/02/03 @ 20:42:52] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:42:52] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:42:52] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:42:52] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:42:52] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:42:52] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:42:52] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:42:52] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:42:52] : get localization fail!
+
+
+
+
+[2020/02/03 @ 20:51:38] : Fail handshake
+
+
+
+
+[2020/02/03 @ 20:51:39] : Fail handshake
+
+
+
+
+[2020/02/03 @ 20:51:39] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:51:39] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:51:39] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:51:39] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:51:39] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:51:39] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:51:39] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 20:51:39] : get profile fail !
+
+
+
+
+[2020/02/03 @ 20:51:39] : get localization fail!
+
+
+
+
+[2020/02/03 @ 23:01:57] : Fail handshake
+
+
+
+
+[2020/02/03 @ 23:01:58] : Fail handshake
+
+
+
+
+[2020/02/03 @ 23:01:58] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:01:58] : get profile fail !
+
+
+
+
+[2020/02/03 @ 23:01:58] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:01:58] : get profile fail !
+
+
+
+
+[2020/02/03 @ 23:01:58] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:01:58] : get profile fail !
+
+
+
+
+[2020/02/03 @ 23:01:58] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:01:58] : get profile fail !
+
+
+
+
+[2020/02/03 @ 23:01:58] : get localization fail!
+
+
+
+
+[2020/02/03 @ 23:09:29] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:29] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:09:29] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=cd3b6b9a3b5bb353963f85591894d14a41475e77834ed168ed42f51e996535fd&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:30] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:30] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:30] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:30] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:09:31] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:09:32] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:09:38] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:40] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:40] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:40] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:41] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:47] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:49] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:09:49] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:09:50] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:39] : /server/load.php?type=stb&action=handshake&prehash=0&token=&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:39] : pure-ott.com 8000 00:1A:79:02:1B:1E
+
+
+
+
+[2020/02/03 @ 23:20:39] : /server/load.php?action=get_profile&sn=00000005938C1&device_id=30740b9e73b469dc6946832d2fbdaeedafeb9401ec2bf643f6d91cb2b0223172&device_id2=8e8a9947c9369c000a3ee269dd60cd56080c1fc14fb01a868cb864ef5be64bd0&signature=9baa3975dcbe045eed164d77201d71235ea02dd752122ec1d6ea9459e5862da1&stb_type=MAG254&hd=1&ver=ImageDescription:%200.2.18-r17-254;%20ImageDate:%20Mon%20Feb%2020%2015:19:12%20EET%202017;%20PORTAL%20version:%205.2.0;%20API%20Version:%20JS%20API%20version:%20340;%20STB%20API%20version:%20146;%20Player%20Engine%20version:%200x57d&type=stb&auth_second_step=0&image_version=218&not_valid_token=0&num_banks=2&hw_version=1.11-BD-00&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:40] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:40] : /server/load.php?type=stb&action=get_localization&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:40] : /server/load.php?action=get_genres&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?action=get_all_channels&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?type=radio&action=get_ordered_list&p=1&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?type=radio&action=get_ordered_list&p=2&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?type=radio&action=get_ordered_list&p=3&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?type=radio&action=get_ordered_list&p=4&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:20:41] : /server/load.php?type=radio&action=get_ordered_list&p=5&JsHttpRequest=1-xml&sortby=number
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:42] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:20:42] : /server/load.php?action=get_events&event_active_id=0&init=1&type=watchdog&cur_play_type=0&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:20:48] : /server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:50] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:50] : /server/load.php?action=create_link&type=itv&cmd=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F309_&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:50] : /server/load.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=309&tmp_type=1&streamer_id=0&link_id=0&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+no....
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=tv_archive&action=get_link_for_channel&ch_id=309&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=vod&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=vod&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=vod&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=series&action=get_years&category=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=series&action=get_abc&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:51] : /server/load.php?type=series&action=get_genres_by_category_alias&cat_alias=*&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
+
+
+[2020/02/03 @ 23:20:54] : /server/load.php?action=get_epg_info&period=5&type=itv&JsHttpRequest=1-xml
+
+======> 
+
+text !
+
+
